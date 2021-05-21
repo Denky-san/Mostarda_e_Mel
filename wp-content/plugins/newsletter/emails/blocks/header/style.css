@@ -1,0 +1,8 @@
+@media all and (max-width: 640) {
+    .header-table td {
+        width: 100%!important;
+    }
+    .header-logo-global {
+        text-align: center!important;
+    }
+}
