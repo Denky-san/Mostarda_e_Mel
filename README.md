@@ -2,4 +2,3 @@
 Site criado com Wordpress durante o processo seletivo da Level 5
 
 ![](https://i.imgur.com/pzUnQNr.jpg[/img)
-![](https://i.imgur.com/vOXEMGA.jpg[/img)
